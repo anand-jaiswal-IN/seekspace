@@ -15,7 +15,7 @@ export default function Component() {
             <TextInput
               id="email1"
               type="email"
-              placeholder="name@flowbite.com"
+              placeholder="seekspace@club.com"
               required
             />
           </div>
@@ -32,7 +32,7 @@ export default function Component() {
           <Button type="submit">Login</Button>
         </form>
         <p>
-          Don't have account ?{" "}
+          Don&apos;t have account ?{" "}
           <Link href="/auth/register" className="text-blue-600">
             Register here
           </Link>

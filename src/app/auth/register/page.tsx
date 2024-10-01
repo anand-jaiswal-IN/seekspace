@@ -1,4 +1,4 @@
-import { Button, Card, Checkbox, Label, TextInput } from "flowbite-react";
+import { Button, Card, Label, TextInput } from "flowbite-react";
 import Link from "next/link";
 
 export default function Component() {
